@@ -1,0 +1,6 @@
+# List all packages used in this file
+requests
+beautifulsoup4
+
+# Run the following code in the terminal to install all packages in this file
+# pip install -r requirements.txt
